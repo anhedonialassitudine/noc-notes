@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Шаблон разбора протокола или утилиты.md",
+                "file": "3. Шаблон Post-Mortem (Разбор решенного кейса или лабы).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Шаблон разбора протокола или утилиты"
+              "title": "3. Шаблон Post-Mortem (Разбор решенного кейса или лабы)"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#network",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 331.1000061035156
   },
   "right": {
     "id": "1cab91c74670b05e",
@@ -189,14 +189,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cba419a51745206f",
+  "active": "aba626d39bc5ac35",
   "lastOpenFiles": [
+    "2. Шаблон Runbook (Инстукции).md",
+    "3. Шаблон Post-Mortem (Разбор решенного кейса или лабы).md",
     "1. Шаблон разбора протокола или утилиты.md",
+    "Без названия",
     "99_Templates (Служебные шаблоны)/Без названия.md",
     "Добро пожаловать.md",
     "99_Templates (Служебные шаблоны)",
     "05_Scripts (Готовые скрипты)",
-    "04_Inchidents_Lab (Решенные задачи)",
+    "04_Inchidents_Lab (Решенные кейсы)",
     "03_Runbooks (Инструкции)",
     "02_CLI_Cheatsheets (Команды)",
     "00_Inbox (Черновики)",
