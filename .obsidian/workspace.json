@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttttttttttttttt.md",
+                "file": "Добро пожаловать.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ttttttttttttttt"
+              "title": "Добро пожаловать"
             }
           }
         ]
@@ -201,13 +201,21 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "cba419a51745206f",
   "lastOpenFiles": [
+    "99_Templates (Служебные шаблоны)",
+    "05_Scripts (Готовые скрипты)",
+    "04_Inchidents_Lab (Решенные задачи)",
+    "03_Runbooks (Инструкции)",
+    "02_CLI_Cheatsheets (Команды)",
+    "00_Inbox (Черновики)",
+    "00_Inbox.md",
+    "01_Theory (Конспекты)",
     "Добро пожаловать.md",
-    "ttttttttttttttt.md",
     "Без названия.md"
   ]
 }
