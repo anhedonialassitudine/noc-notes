@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Добро пожаловать.md",
+                "file": "1. Шаблон разбора протокола или утилиты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Добро пожаловать"
-            }
-          }
-        ]
-      },
-      {
-        "id": "bb3c3d6309e6e9b7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "157affbfe9d16a78",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "1. Шаблон разбора протокола или утилиты"
             }
           }
         ]
@@ -207,6 +191,9 @@
   },
   "active": "cba419a51745206f",
   "lastOpenFiles": [
+    "1. Шаблон разбора протокола или утилиты.md",
+    "99_Templates (Служебные шаблоны)/Без названия.md",
+    "Добро пожаловать.md",
     "99_Templates (Служебные шаблоны)",
     "05_Scripts (Готовые скрипты)",
     "04_Inchidents_Lab (Решенные задачи)",
@@ -214,8 +201,6 @@
     "02_CLI_Cheatsheets (Команды)",
     "00_Inbox (Черновики)",
     "00_Inbox.md",
-    "01_Theory (Конспекты)",
-    "Добро пожаловать.md",
-    "Без названия.md"
+    "01_Theory (Конспекты)"
   ]
 }
