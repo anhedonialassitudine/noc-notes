@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.70001220703125
+    "width": 544.7000122070312
   },
   "right": {
     "id": "1cab91c74670b05e",
@@ -189,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aba626d39bc5ac35",
+  "active": "cba419a51745206f",
   "lastOpenFiles": [
     "01_Theory (Конспекты)/Блок 3. Диагностика, Linux и мониторинг (Главные навыки NOC)/14. Жизненный цикл инцидента.md",
     "01_Theory (Конспекты)/Блок 3. Диагностика, Linux и мониторинг (Главные навыки NOC)/13. Системы мониторинга и алертинга (SNMP, Syslog, Zabbix, Prometheus).md",
